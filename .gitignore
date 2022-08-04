@@ -11,4 +11,5 @@ artifacts
 gas-report.txt
 coverage
 scripts
+deployments
 
